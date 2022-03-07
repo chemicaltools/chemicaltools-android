@@ -33,7 +33,7 @@ dependencies {
     compile 'com.ikimuhendis:ldrawer:0.1'
     compile 'com.android.support:design:23.4.0'
     compile 'com.sangbo.autoupdate:autoUpdate:1.0.1'
-    compile('com.mikepenz.aboutlibraries:library:4.6.5@aar') {
+    compile('com.mikepenz.aboutlibraries:library:4.7.2@aar') {
         transitive = true
     }
     testCompile 'junit:junit:4.12'
