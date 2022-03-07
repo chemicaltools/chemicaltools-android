@@ -36,7 +36,7 @@ dependencies {
     compile('com.mikepenz.aboutlibraries:library:4.6.5@aar') {
         transitive = true
     }
-    testCompile 'junit:junit:4.12'
+    testCompile 'junit:junit:4.13.2'
     compile files('libs/mta-android-stat-sdk-2.2.0_20160504.jar')
     compile files('libs/mid-sdk-2.3.jar')
     compile files('libs/SocialSDK_email.jar')
