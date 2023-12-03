@@ -51,6 +51,6 @@ dependencies {
     compile files('libs/umeng_social_viewv6.0.0.jar')
     compile ('com.android.support:support-v4:21.0.3')
     // LeanCloud 基础包
-    compile ('cn.leancloud.android:avoscloud-sdk:v3.+')
+    compile ('cn.leancloud.android:avoscloud-sdk:3.13.+')
 
 }
